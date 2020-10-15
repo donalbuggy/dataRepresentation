@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+	<catalog genre="technical_books">
+		<book isbn="0-9450-7752-1">
+			<title>Python for Game Design</title>
+			<author>Susan Murphy</author>
+		</book>
+		<book isbn="0-8236-9227-2">
+			<title>How NOT to Structure Your Code</title>
+			<author>John Q. Smith</author>
+		</book>
+	</catalog>
+	
+	<catalog genre="cookery_books">
+		<book isbn="0-5720-2189-5">
+			<title>Lazy Sunday Cooking</title>
+			<author>James Madison</author>
+		</book>
+		<book isbn="0-7442-7960-7">
+			<title>Ireland's Favourite Christmas Dishes</title>
+			<author>Bertie A. Hearne</author>
+		</book>
+	</catalog>
+</library>
